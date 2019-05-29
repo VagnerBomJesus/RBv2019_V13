@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/RoboJDE/RoboJDE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Program%20Files%20(x86)/RoboJDE/apidoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path=""/>
+</classpath>
